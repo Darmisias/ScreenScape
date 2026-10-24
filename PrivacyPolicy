@@ -1,0 +1,39 @@
+Privacy Policy for ScreenScape
+
+Last updated: [24 Oct 26]
+Developer: “Darmisias”
+Contact: christopherkuchma@gmail.com
+
+ScreenScape is an Android TV application that displays photos and videos from SMB/Samba network shares chosen by the user.
+
+1. Data we collect
+ScreenScape does not require an account and does not use advertising SDKs or analytics services operated by the developer.
+
+To function, the app stores on your device the settings you enter, which may include:
+- SMB server address (IP or hostname)
+- Share name and folder path
+- Username, password
+- Playback preferences (interval, include images/videos, etc.)
+
+These settings are stored locally on your television or device using Android storage (DataStore). They are used only to connect to the network share you configure.
+
+2. Media files
+Photos and videos are read from your local network share for display. The developer does not receive, upload, or host your media files.
+
+3. Data sharing
+We do not sell user data. We do not share your SMB credentials or media with third parties. Network traffic goes between your device and the SMB server you specify on your own network (or as you configure it).
+
+4. Third-party services
+The app shows optional support information (QR code to Venmo), that service is operated by a third party and governed by their own privacy policy. ScreenScape does not transmit your media or SMB credentials to those services.
+
+5. Children’s privacy
+ScreenScape is not directed at children under 13 or of any age.
+
+6. Security
+Credentials are stored on the device. We recommend using ScreenScape only on trusted private networks. You can clear app data in Android settings to remove stored settings.
+
+7. Changes
+We may update this policy. The “Last updated” date will change when we do.
+
+8. Contact
+Questions: Anytime!
