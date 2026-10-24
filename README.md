@@ -11,10 +11,14 @@ Folder label on screen
 Free, no ads, no account required
 All media stays on your network. ScreenScape does not upload your photos or videos to the cloud.
 
-Data	What happens
-SMB host, share, path, username, password	Stored on the device (DataStore) to connect to the user’s server
-Photos/videos	Read from the user’s LAN share; not uploaded by you
-Analytics / ads / accounts:	None
-Venmo / support QR: Only a link the user may choose to open; no in-app payments required
-
+Data
+SMB host, share, path, username, password \n
+  -- Stored on the device (DataStore) to connect to the user’s server
+Photos/videos	\n
+  -- Read from the user’s LAN share; not uploaded by you
+Analytics / ads / accounts \n
+  -- None
+Venmo / support QR \n
+  -- Only a link the user may choose to open; no in-app payments required
+\n
 #FREEWARE
